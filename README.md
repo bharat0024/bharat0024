@@ -1,6 +1,6 @@
 
-<img src="https://media.licdn.com/dms/image/D4D3DAQEfNuKxtxMNFg/image-scale_191_1128/0/1704702059446/esparkinfo_cover?e=2147483647&v=beta&t=XRqIuwyrHTVXlF0JJJWh2WZ-wgLo6GrGCOhnCwYiNww" alt="something wrong:"/>
-<img src="https://readme-typing-svg.demolab.com?font=Vollkorn&weight=700&pause=200&color=F78406&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hey+Developer..!++;welcome+to+the+world+of+creation;I+am+creator+Bharat%2C+Bharat+Makwana" alt="Typing SVG" />
+<img src="https://media.licdn.com/dms/image/D4D3DAQEfNuKxtxMNFg/image-scale_191_1128/0/1704702059446/esparkinfo_cover?e=2147483647&v=beta&t=XRqIuwyrHTVXlF0JJJWh2WZ-wgLo6GrGCOhnCwYiNww" alt="something wrong:" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Vollkorn&pause=1000&color=E0500B&random=false&width=435&lines=Hey%2C+I'm+Bharat..+Welcome+to+my+profile.." alt="Typing SVG" align="midle" />
 <!--
 **bharat0024/bharat0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
