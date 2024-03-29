@@ -26,7 +26,9 @@
 
 <h2 align="center"> Self-motivated &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> enjoy coding & development! </h2><br>
 
-👨‍💻 Greetings! I am Makwana Bharat and developer at eSparkBiz. also currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe. 🎓.
+👨‍💻 Greetings! I am Makwana Bharat. currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe 🎓.
+
+  also developer at eSparkBiz Company.
 
 🌳 My current areas of focus are TypeScript, NodeJS, React as I strive to enhance my skills and knowledge in these cutting-edge technologies.
 
