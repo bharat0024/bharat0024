@@ -19,7 +19,7 @@
 <!-- about section-->
 <img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate &nbsp;<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate &nbsp;<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2>
 
 👨‍💻 Greetings! I am Makwana Bharat, a dedicated college student currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe. 🎓
 
