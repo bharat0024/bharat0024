@@ -6,5 +6,5 @@
 <!-- view counter -->
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/Makwana-Bharat/count.svg" />
+  <img src="https://profile-counter.glitch.me/bharat0024/count.svg" />
 </div>
