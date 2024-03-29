@@ -1,7 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/D4D3DAQEfNuKxtxMNFg/image-scale_191_1128/0/1704702059446/esparkinfo_cover?e=2147483647&v=beta&t=XRqIuwyrHTVXlF0JJJWh2WZ-wgLo6GrGCOhnCwYiNww" alt="something wrong:"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Bharat and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Vollkorn&weight=700&pause=200&color=F78406&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hey+Developer..!++;welcome+to+the+world+of+creation;I+am+creator+Bharat%2C+Bharat+Makwana)](https://git.io/typing-svg)
 <!--
 **bharat0024/bharat0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
