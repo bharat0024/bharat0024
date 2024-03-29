@@ -18,8 +18,8 @@
 
 <!-- about section-->
 <div>
-  <div>
-## Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate &nbsp;<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding!
+  <div align="left" width="50%">
+    ##Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate &nbsp;<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding!
 
 👨‍💻 Greetings! I am Makwana Bharat, a dedicated college student currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe. 🎓
 
