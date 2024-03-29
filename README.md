@@ -1,5 +1,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4D3DAQEfNuKxtxMNFg/image-scale_191_1128/0/1704702059446/esparkinfo_cover?e=2147483647&v=beta&t=XRqIuwyrHTVXlF0JJJWh2WZ-wgLo6GrGCOhnCwYiNww" alt="something wrong:" width="100%"/>
+
+<!-- intro-->
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="1.75%" align="left"/>
