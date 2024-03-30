@@ -19,7 +19,7 @@
 <!-- about section-->
 
 <h2></h2>
-
+<br><br>
 <img align="right" src="https://th.bing.com/th/id/OIG1.vHMaUcmEXQlPDaJVJ2.Z?pid=ImgGn" height="360px" alt="pixel city image">
 
 <div align="left">
