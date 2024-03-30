@@ -22,7 +22,7 @@
 
 <img align="right" src="https://th.bing.com/th/id/OIG1.vHMaUcmEXQlPDaJVJ2.Z?pid=ImgGn" height="360px" alt="pixel city image">
 
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> <strong size="30px">Finding beauty in every line crafted..</strong><br><img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/>
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> <h2>Finding beauty in every line crafted..</strong><img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/></h2>
 👋 Hello there! I'm Makwana Bharat, currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai University 🎓, while also honing my skills as a developer at eSparkBiz Company.
 
 🌳 My focus lies in TypeScript, NodeJS, and React, where I constantly seek to push boundaries and expand my expertise in these cutting-edge technologies.
