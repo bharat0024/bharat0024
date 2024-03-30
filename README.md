@@ -20,9 +20,7 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
-
-<img align="right" src="https://th.bing.com/th/id/OIG1.vHMaUcmEXQlPDaJVJ2.Z?pid=ImgGn" height="560px" alt="pixel city image">
+<img align="right" src="https://th.bing.com/th/id/OIG1.vHMaUcmEXQlPDaJVJ2.Z?pid=ImgGn" height="360px" alt="pixel city image">
 
 <h2 align="center"> Self-motivated &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> enjoy coding & development! </h2><br>
 
