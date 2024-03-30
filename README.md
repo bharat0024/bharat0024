@@ -23,8 +23,9 @@
 
   <strong style="font-size:24px"><img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/>Finding beauty in every line crafted..<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/></strong>
   <hr>
-<b>👋 Hello there!</b> I'm Makwana Bharat, currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai University 🎓, while also honing my skills as a developer at eSparkBiz Company.
-
+<b>👋 Hello there!</b> I'm Makwana Bharat, currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai University 🎓, 
+while also honing my skills as a developer at eSparkBiz Company.
+<br>
 <br>
 🌳 My focus lies in TypeScript, NodeJS, and React, where I constantly seek to push boundaries and expand my expertise in these cutting-edge technologies.
 
