@@ -22,21 +22,16 @@
 
 <img align="right" src="https://th.bing.com/th/id/OIG1.vHMaUcmEXQlPDaJVJ2.Z?pid=ImgGn" height="360px" alt="pixel city image">
 
-<h2 align="center"> Self-motivated &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> enjoy coding & development! </h2><br>
+## <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> Fueled by passion, I thrive on coding and development, finding beauty in every line crafted.<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/>
+👋 Hello there! I'm Makwana Bharat, currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai University 🎓, while also honing my skills as a developer at eSparkBiz Company.
 
-👨‍💻 Greetings! I am Makwana Bharat. currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe 🎓.
+🌳 My focus lies in TypeScript, NodeJS, and React, where I constantly seek to push boundaries and expand my expertise in these cutting-edge technologies.
 
-  also developer at eSparkBiz Company.
+🐾 Beyond academia, I'm enthusiastic about connecting with fellow professionals and forging meaningful relationships within our community.
 
-🌳 My current areas of focus are TypeScript, NodeJS, React as I strive to enhance my skills and knowledge in these cutting-edge technologies.
+🌊 As I look forward to 2024, my main goal is to immerse myself in collaborative development activities with my colleagues.
 
-🐾 Beyond my academic pursuits, I am eager to connect with fellow professionals and establish meaningful relationships within this community.
+☕ With a profound love for tea, I indulge in exploring creative outlets like designing and drawing during my free time. Moreover, my passion for coding provides me with a sense of fulfillment and purpose.
 
-🌊 Looking ahead to 2024, my primary objective is to enjoy development activity with my colleague.
-
-☕ i love tea and In my free time, I find joy in exploring various creative outlets such as designing and drawing. Additionally, I am deeply passionate about coding and find solace in the world of programming.
-
-Feel free to connect with me on GitHub and let's embark on a journey of professional growth and collaboration!
-
-
+Feel free to reach out to me on GitHub, and together, let's embark on a journey of professional growth and collaboration! 🚀
 <h2></h2>
